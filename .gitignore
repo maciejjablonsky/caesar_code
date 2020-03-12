@@ -1,5 +1,5 @@
 .vscode
-ceedling
+./ceedling
 build
 cypher
 resources
